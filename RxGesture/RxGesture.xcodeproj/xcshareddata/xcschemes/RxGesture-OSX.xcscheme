@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F4CC4C1C1DEBA895009ED835"
+               BlueprintIdentifier = "87F8F7211E511E2E00C3B1BE"
                BuildableName = "RxGesture.framework"
-               BlueprintName = "RxGesture-iOS"
+               BlueprintName = "RxGesture-OSX"
                ReferencedContainer = "container:RxGesture.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -45,9 +45,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F4CC4C1C1DEBA895009ED835"
+            BlueprintIdentifier = "87F8F7211E511E2E00C3B1BE"
             BuildableName = "RxGesture.framework"
-            BlueprintName = "RxGesture-iOS"
+            BlueprintName = "RxGesture-OSX"
             ReferencedContainer = "container:RxGesture.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -63,9 +63,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F4CC4C1C1DEBA895009ED835"
+            BlueprintIdentifier = "87F8F7211E511E2E00C3B1BE"
             BuildableName = "RxGesture.framework"
-            BlueprintName = "RxGesture-iOS"
+            BlueprintName = "RxGesture-OSX"
             ReferencedContainer = "container:RxGesture.xcodeproj">
          </BuildableReference>
       </MacroExpansion>

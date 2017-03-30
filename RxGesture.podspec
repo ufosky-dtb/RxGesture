@@ -5,7 +5,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "RxGesture"
-  s.version          = "0.2.0"
+  s.version          = "1.0.0"
   s.summary          = "RxSwfit reactive wrapper for view gestures."
 
   s.description      = <<-DESC
@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
 
   s.homepage         = "https://github.com/RxSwiftCommunity/RxGesture"
   s.license          = 'MIT'
-  s.author           = { "Marin Todorov" => "touch-code-magazine@underplot.com" }
+  s.authors           = { "Marin Todorov" => "touch-code-magazine@underplot.com", "Jérôme Alves" => "j.alves@me.com" }
   s.source           = { :git => "https://github.com/RxSwiftCommunity/RxGesture.git", :tag => s.version.to_s }
 
   s.requires_arc = true
@@ -29,8 +29,8 @@ Pod::Spec.new do |s|
   s.ios.source_files      = 'Pod/Classes/iOS/*.swift'
   s.osx.source_files      = 'Pod/Classes/OSX/*.swift'
   
-  s.dependency 'RxSwift', '~> 3.0.0'
-  s.dependency 'RxCocoa', '~> 3.0.0'
+  s.dependency 'RxSwift', '~> 3.0'
+  s.dependency 'RxCocoa', '~> 3.0'
   
 end
 
